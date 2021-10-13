@@ -1,0 +1,22 @@
+/* .resturant-container{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    
+} */
+
+.meal{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+.meal-info {
+    padding: 5px;
+    background-color: #f0f0f0;
+    border-radius: 15px;
+}
+.meal-info img{
+    width: 200px;
+    border: 2px solid rgba(34, 6, 34, 0.822);
+    border-radius: 5px;
+ 
+}
